@@ -4,4 +4,5 @@ pytorch
 llama-index-llms-ollama            # to use offline models
 llama-index-embeddings-huggingface # to use offline models
 llama-index-llms-huggingface       # to use offline models
+llama-index-vector-stores-weaviate
 transformers
